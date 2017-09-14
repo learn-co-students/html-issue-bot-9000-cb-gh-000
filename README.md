@@ -1,17 +1,36 @@
-# HTML Issue Bot 9000
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML ISSUE BOT 9000</title>
+</head>
 
-Bleep bloop, please help Issue Bot 9000 solve all HTML validation errors using the W3C validator.
+<body>
 
-## Steps
+  <h1>HTML ISSUE BOT 9000 - Checks for Issues</h1>
 
-1. Fork this repository.
-2. Clone your fork.
-3. cd into the directory for this lab.
-4. open index.html in your text editor.
-5. copy the code from index.html and paste it into the W3C validator at: [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input). Then click the large check button to check the code. Use the error messages to correct the code line by line. Save the file then re-validate the code again until all errors are gone. This will make Issue Bot 9000 very happy!
+  <h2>Issue Bot's Daily Diary</h2>
 
-## Resources
+  <p>8:00am Issue bot circuits online. <a href="http://fc06.deviantart.net/fs10/i/2006/153/e/5/sad_strut_robot_walk_by_ikstudio.gif">Wakes up lonely</a>. Please explain <a href="http://www.simplysyndicated.com/wp-content/uploads/2013/04/hott-robot-love-image.jpg">love</a> to issue bot. Needs input...</p>
+  <p>9:15am Issue bot breaks door handle oh no! <span>Issue</span> bot does not know its own strength. Issue bot ashamed.</p>
+  <p>10:00am Issue bot scheduled oil change.</p>
+  <p>3:15pm Rewire Electrical Outlets in High School Classroom.</p>
+  <p>4:30pm Issue Bot Lithium-Ion Battery charge, initiate nap sequence on quad couches.</p>
 
-[W3C HTML Validator - Validate Direct Input](http://validator.w3.org/#validate_by_input)
+  <h3>Issue Bot Tasks</h3>
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-issue-bot-9000' title='HTML Issue Bot 9000'>HTML Issue Bot 9000</a> on Learn.co and start learning to code for free.</p>
+  <ul>
+    <li>Debug Ruby Labs</li>
+    <li>Massage Joe's Back</li>
+    <li>Archive Steph's Gif collection</li>
+    <li>Take out trash</li>
+  </ul>
+
+  <h2> Issue Bot Camera Capture Archive</h2>
+
+  <img src="images/adam.jpg" alt="Adam">
+  <img src="images/adam.jpg" alt="Avi">
+  <img src="images/spencer.jpg" alt="Spencer">
+
+</body>
+</html>
